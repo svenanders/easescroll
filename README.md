@@ -13,6 +13,13 @@ scrollToY(0, 1500, 'easeInOutQuint');
 
 ```
 
+## Demo
+
+```js
+node demo/server.js
+```
+Open http://localhost:8000
+
 ## Easing Equations
 
 - easeOutSine
