@@ -1,6 +1,6 @@
 {
   "name": "easescroll",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Simple DOM scroller (Easescroll)",
   "main": "index.js",
   "scripts": {
