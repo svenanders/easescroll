@@ -1,6 +1,6 @@
 var React = require('react');
 var Scroller = require('../index');
-var util = require('find_dom_utils');
+var util = require('dom-find');
 
 var exampleComponent = React.createClass({
   displayName: 'exampleComponent',
