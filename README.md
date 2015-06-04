@@ -18,7 +18,7 @@ scrollToY(0, 1500, 'easeInOutQuint');
 ```js
 node demo/server.js
 ```
-Open http://localhost:8000
+Open http://localhost:8000, scroll to bottom and click on the trigger
 
 ## Easing Equations
 
