@@ -1,15 +1,15 @@
 # Easescroll
 
 ```js
-var scrollToY = require('easescroll');
+var Easescroll = require('easescroll');
 
-// scrollToY(scrollTargetY, speed, easing);
+// Easescroll(targetY, speed, easing);
 // 
-// scrollTargetY: the target scrollY property of the window
+// targetY: the target scrollY property of the window
 // speed: time in pixels per second
 // easing: easing equation to use
 
-scrollToY(0, 1500, 'easeInOutQuint');
+Easescroll(0, 60, 'easeInOutQuint');
 
 ```
 
