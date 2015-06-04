@@ -22,6 +22,13 @@ Open http://localhost:8000, scroll to bottom and click on the trigger
 
 ## Easing Equations
 
+- easeFrom
+- easeTo
 - easeOutSine
 - easeInOutSine
 - easeInOutQuint
+- easeInOutCubic
+- bounce
+- bouncePast
+- elastic
+- easeOutBounce
