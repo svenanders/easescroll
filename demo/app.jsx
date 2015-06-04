@@ -6,7 +6,7 @@ var exampleComponent = React.createClass({
   displayName: 'exampleComponent',
 
   handleClick: function() {
-    var realativeEl = util.findPosRelativeToViewport(document.getElementById("SecondDiv"));
+    var relativeEl = util.findPosRelativeToViewport(document.getElementById("SecondDiv"));
     var el = util.findPos(document.getElementById("SecondDiv"));
     Scroller(el[1], 1500, 'easeInOutSine');
   },
