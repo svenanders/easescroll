@@ -1,7 +1,7 @@
 # Easescroll
 
 ```js
-var scrollToY = require('scroll-to-y');
+var scrollToY = require('easescroll');
 
 // scrollToY(scrollTargetY, speed, easing);
 // 
