@@ -1,0 +1,21 @@
+{
+  "name": "easescroll",
+  "version": "0.0.1",
+  "description": "Simple DOM scroller (Easescroll)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Anders Robbestad (robbestad@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "babel-eslint": "^3.1.10",
+    "browserify-middleware": "^5.0.2",
+    "express": "^4.12.4",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "uglify-js": "^2.4.23"
+  },
+  "dependencies": {}
+}
